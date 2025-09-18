@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Aniket Singh  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](www.youtube.com/@theaniketsingh07)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/https://youtu.be/2QEKAGaT76M?si=G8u8GpVSq1YqWZ7u?style=social)](www.youtube.com/@theaniketsingh07)
 [![GitHub followers](https://img.shields.io/github/followers/TheAniketSingh-07?style=social)](https://github.com/TheAniketSingh-07)
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
